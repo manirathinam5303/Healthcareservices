@@ -1,0 +1,15 @@
+.footer {
+  background-color: aqua;
+  padding: 20px;
+  margin-top: 40px;
+  color: white;
+}
+
+.footers_1 {
+  box-shadow: none !important;
+}
+.footers_1 a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 20px;
+}

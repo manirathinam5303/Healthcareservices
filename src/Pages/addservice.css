@@ -1,0 +1,12 @@
+.login_form{
+    
+    margin-top: 40px;
+    
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: #101935;
+    padding: 10px;
+    border-radius: 10px;
+}
